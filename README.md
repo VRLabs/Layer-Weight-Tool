@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Layer Weight Tool</h1>
   <p>
-     This script recalculates the indices on [Animator Layer Control](https://docs.vrchat.com/docs/state-behaviors) state behaviors.
+     This script recalculates the indices on [Layer Control](https://docs.vrchat.com/docs/state-behaviors) state behaviors.
   </p>
 
   <a href="https://github.com/VRLabs/Layer-Weight-Tool/releases/latest">
