@@ -29,7 +29,7 @@
 
 ## Credit
 
-The author of this script is [ksivl](https://github.com/ksivl).
+Author: [ksivl](https://github.com/ksivl).
 
 ## How to use
 
