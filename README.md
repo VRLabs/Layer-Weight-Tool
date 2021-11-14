@@ -41,11 +41,11 @@ To fix custom controllers, name the layer containing VRC Animator Layer Control 
 
 ## Downloads
 
-You can grab the latest version of the Layer Weight Tool in [Releases](https://github.com/VRLabs/Particle-Driver/releases/latest).
+You can grab the latest version of the Layer Weight Tool in [Releases](https://github.com/VRLabs/Layer-Weight-Tool/releases/latest).
 
 ## License
 
-Layer Weight Tool is available as-is under MIT. For more information see [LICENSE](https://github.com/VRLabs/Particle-Driver/blob/dev/LICENSE).
+Layer Weight Tool is available as-is under MIT. For more information see [LICENSE](https://github.com/VRLabs/Layer-Weight-Tool/blob/dev/LICENSE).
 
 ## Contact us
 
