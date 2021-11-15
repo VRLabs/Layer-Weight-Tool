@@ -39,7 +39,7 @@ jobs:
         with:
           name: "Layer Weight Tool ${{ env.SOURCE_TAG }}"
           files: |
-            Particle_Driver_${{ env.SOURCE_TAG }}.unitypackage
+            Layer_Weight_Tool_${{ env.SOURCE_TAG }}.unitypackage
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           SOURCE_TAG: ${{ steps.branch_name.outputs.SOURCE_TAG }}
