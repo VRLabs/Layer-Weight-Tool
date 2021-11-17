@@ -1,4 +1,4 @@
-<div align="center">
+<div>
   <h1>Layer Weight Tool</h1>
   <p>
      This script recalculates the indices on <a href="https://docs.vrchat.com/docs/state-behaviors">Animator Layer Control</a> state behaviors.
