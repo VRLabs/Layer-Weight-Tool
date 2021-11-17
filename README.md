@@ -29,7 +29,7 @@
 
 ## Credit
 
-Author: [ksivl](https://github.com/ksivl)
+[ksivl](https://github.com/ksivl)
 
 ## How to use
 
