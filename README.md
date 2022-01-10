@@ -44,7 +44,7 @@ You can grab the latest version of the Layer Weight Tool in [Releases](https://g
 
 ## License
 
-Layer Weight Tool is available as-is under MIT. For more information see [LICENSE](https://github.com/VRLabs/Layer-Weight-Tool/blob/dev/LICENSE).
+Layer Weight Tool is available as-is under MIT. For more information see [LICENSE](https://github.com/VRLabs/Layer-Weight-Tool/blob/main/LICENSE).
 
 ## Contact us
 
