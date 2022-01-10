@@ -26,10 +26,6 @@
   <br />
 </div>
 
-## Credit
-
-[ksivl](https://github.com/ksivl)
-
 ## How to use
 
 Open VRLabs from the menu bar. Click "Apply Weight Controls".
@@ -37,6 +33,10 @@ Open VRLabs from the menu bar. Click "Apply Weight Controls".
 All enabled avatars are evaluated. Fixed controllers are generated at "Assets/VRLabs/GeneratedAssets/" and reassigned automatically.
 
 To fix custom controllers, name the layer containing VRC Animator Layer Control as "Control ___" where ___ is the name of the layer to retarget.
+
+## Credit
+
+[ksivl](https://github.com/ksivl)
 
 ## Downloads
 
