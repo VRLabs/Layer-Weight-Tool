@@ -1,17 +1,11 @@
-<div>
-  <h1>Layer Weight Tool</h1>
-  <p>
-     This script recalculates the indices on <a href="https://docs.vrchat.com/docs/state-behaviors">Animator Layer Control</a> state behaviors.
-  </p>
+# Layer Weight Tool
+  
+[![Generic badge](https://img.shields.io/badge/Version-1.2-orange.svg)](https://github.com/VRLabs/Layer-Weight-Tool/releases/latest)
+[![Generic badge](https://img.shields.io/badge/Unity-2019.4.31f1-informational.svg)](https://unity3d.com/unity/whats-new/2019.4.31)
+[![Generic badge](https://img.shields.io/badge/SDK-AvatarSDK3-informational.svg)](https://vrchat.com/home/download)
+[![Generic badge](https://img.shields.io/badge/License-MIT-informational.svg)](https://github.com/VRLabs/Layer-Weight-Tool/blob/main/LICENSE)  
 
-  <a href="https://github.com/VRLabs/Layer-Weight-Tool/releases/latest">
-    <img src="https://img.shields.io/github/v/release/VRLabs/Layer-Weight-Tool.svg?style=flat-square">
-  </a>
-  <a href="https://github.com/VRLabs/Layer-Weight-Tool/releases/latest">
-    <img src="https://img.shields.io/badge/Unity-2019.4-green.svg?style=flat-square">
-  </a>
-  <br />
-</div>
+This script recalculates the indices on [Animator Layer Control](https://docs.vrchat.com/docs/state-behaviors) state behaviors.
 
 ## How to use
 
